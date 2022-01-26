@@ -2,8 +2,6 @@
 <router-view></router-view>
 </template>
 <script setup lang="ts">
-
-
 </script>
 <style lang="less" scoped>
 #app {
@@ -12,6 +10,7 @@
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
+  background: #ddd;
   margin-top: 60px;
 }
 </style>
